@@ -4,3 +4,7 @@ hello, I'm better2day
 
 
 나는 modifying this line
+
+이거는 hot fix 브랜치에서 추가한 문장입니다
+
+오늘 오후 수업 시작!
