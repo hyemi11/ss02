@@ -13,3 +13,9 @@ how are you
 
 -------
 goodbye/come again
+<<<<<<< HEAD
+=======
+/n메인에서 작성
+메인에서 작성11/n줄바꾸기 어떻게해
+일단올린다
+>>>>>>> main
