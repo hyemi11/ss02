@@ -7,4 +7,3 @@ hello, I'm better2day
 
 
 기능 2 추가되서 feature 2 브랜치로 분기
-VS Code에서 수정 작업
