@@ -4,3 +4,6 @@ hello, I'm better2day
 
 
 나는 modifying this line
+
+
+기능 2 추가되서 feature 2 브랜치로 분기
